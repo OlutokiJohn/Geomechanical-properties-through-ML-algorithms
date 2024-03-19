@@ -8,7 +8,7 @@ Geomechanical properties through ML algorithms for accurate determination and pr
 The data used in this study was from the Niger delta Basin and was provided by TOTAL E&P Nigeria, 
 
 ## Implementation
-Software: --Python--
+Software: `Python`
 
 Packages: lasio, sklearn, numpy, pandas and matplotlib
 
